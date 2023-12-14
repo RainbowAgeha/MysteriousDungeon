@@ -30,6 +30,8 @@
 *.exe
 *.out
 *.app
+*.suo
+制作履歴.txt
 .vs/
 Debug/
 
